@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conhecimentos bacários</title>
+    
+</head>
+<body>
+  <select id="materias" onchange="selecionaMateria()">
+    <option value="" disabled selected >Escolha uma matéria para revisar</option>
+    <option value="./questoes/conhecimentos-bancarios.json">Conhecimentos Bancários</option>
+    <option value="./questoes/raciocinio-logico.json">Raciocínio Lógico</option>
+    <option value="./questoes/lingua-portuguesa.json">Lingua Portuguesa</option>
+    <option value="./questoes/bloco-tecnico.json">Bloco Técnico</option>
+    <option value="./questoes/bloco-dados.json">Banco de Dados</option>
+    <option value="./questoes/bloco-gestao.json">Bloco de Gestão</option>
+    <option value="./questoes/bloco-geral.json">Bloco Geral</option>
+
+  </select>
+  <div id="perguntas"></div>
+  <button id="proximo">Próximo</button>
+    
+  <script src="app.js"></script>
+</body>
+</html>

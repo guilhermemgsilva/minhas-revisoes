@@ -1,0 +1,194 @@
+[{
+    "id":0,  
+    "pergunta": "Quais são os tipos de frases que exstem?",
+    "resposta": "declarativa, interrogativa, exclamativa, imperativa, optativa"
+  },
+  
+    {
+        "id":1, 
+        "pergunta":"O que é uma proposição?",
+        "resposta":"é toda sentença declarativa em que pode ser atribuído um valor lógico" 
+    },
+    {
+      "id":2,
+      "pergunta":"Quais os tipos de sentença?",
+      "resposta":"aberta e fechada" 
+  },
+  {
+    "id":3,
+    "pergunta":"Quando uma proposição é considerada fechada?",
+    "resposta":"quando o valor do enunciado está definido" 
+  },
+  {
+    "id":4,
+    "pergunta":"Quais os três passos para se saber se uma sentença é uma proposição lógica?",
+    "resposta":"saber se é declarativa, se não é sentença aberta e se não é paradoxo" 
+  },
+  {
+    "id":5,
+    "pergunta":"Como identificar um tipo de paradoxo?",
+    "resposta":"se frase se definir como falsa" 
+  },
+  {
+    "id":6,
+    "pergunta":"O que é uma senteça aberta?",
+    "resposta":"quando o resultado é desconhecido" 
+  },
+  {
+    "id":7,
+    "pergunta":"O que é uma senteça aberta pelo caso: Uso de um pronome?",
+    "resposta":"é quando o pronome não informa explicitamente o sujeito" 
+  },
+  {
+    "id":8,
+    "pergunta":"porque a frase [ Ele é gordo] não é uma proposição e a frase [Frei Leandro é gordo] é?",
+    "resposta":"é uma sentença aberta" 
+  },
+  {
+    "id":9,
+    "pergunta":"Quando o uso do pronome sem explicitar o sujeito pode ser considerado uma proposição?",
+    "resposta":"quando o pronome fizer referência a um sujeito anteriormente citado" 
+  },
+  {
+    "id":10,
+    "pergunta":"O que é uma senteça aberta pelo caso: Variável matemática?",
+    "resposta":"é quando no enunciado possui uma variável matemática" 
+  },
+  {
+    "id":11,
+    "pergunta":"Quais são os princípios fundamentais da lógica?",
+    "resposta":"identidade, não contradição, terceiro excluído" 
+  },
+  {
+    "id":12,
+    "pergunta":"O que é o princípio lógico da identidade?",
+    "resposta":"uma proposição verdadeiro é sempre verdadeiro e algo falso é sempre falso" 
+  },
+  {
+    "id":13,
+    "pergunta":"O que é o princípio lógico da não contradição?",
+    "resposta":"uma proporsição não pode ser ao mesmo tempo verdadeiro e falso" 
+  },
+  {
+    "id":14,
+    "pergunta":"O que é o princípio lógico do terceiro excluído?",
+    "resposta":"uma proposição ou é verdadeira ou é falsa, não havendo uma terceira opção" 
+  },
+  {
+    "id":15,
+    "pergunta":"Quais são os tipos de proposição?",
+    "resposta":"simples e composta" 
+  },
+  {
+    "id":16,
+    "pergunta":"O que é uma proposição simples?",
+    "resposta":"é uma proposição que apresenta um pesnamento completo sobre o objeto de estudo." 
+  },
+  {
+    "id":17,
+    "pergunta":"O que é uma proposição composta?",
+    "resposta":"é fomada por duas ou mais proporsições relacionadas por conectivos lógicos" 
+  },
+  {
+    "id":18,
+    "pergunta":"O que é a negação de uma proposição?",
+    "resposta":"é mudar o valor lógico sem perder o sentido" 
+  },
+  {
+    "id":19,
+    "pergunta":"O que fazer para que uma negação não altere o sentido da proposição?",
+    "resposta":"Negar todas as situações possíveis" 
+  },
+  {
+    "id":20,
+    "pergunta":"O que é uma proposição contraditória?",
+    "resposta":"é uma proposição que apresenta o valor lógico diferente da proposição original" 
+  },
+  {
+    "id":21,
+    "pergunta":"Como se nega uma proposição que não possui o advérbio [não]?",
+    "resposta":"clocando o advérbio não antes do verbo de ligação" 
+  },
+  {
+    "id":22,
+    "pergunta":"Qual a negação da frase [Aristóteles foi um filósofo grego]?",
+    "resposta":"Artistóteles não foi um filósofo grego" 
+  },
+  {
+    "id":23,
+    "pergunta":"Como se nega uma proposição que possui o advérbio [não] ?",
+    "resposta":"retirando o advérbio não" 
+  },
+  {
+    "id":24,
+    "pergunta":"Quais expressões podem ser utilizadas para se negar uma proposição sem utilizar o advérbio [não] apenas?",
+    "resposta":"não é verdade que, é falso que" 
+  },
+  {
+    "id":25,
+    "pergunta":"Quando se pode utilizar antônimos para negar uma proposição?",
+    "resposta":"Quando a negação é equivalente ao antônimo" 
+  },
+  {
+    "id":26,
+    "pergunta":"Qual a negação do sinal matemático [=] (igual) ?",
+    "resposta":"diferente" 
+  },
+  {
+    "id":27,
+    "pergunta":"Qual a negação do sinal matemático [≠] (diferente) ?",
+    "resposta":"igual" 
+  },
+  {
+    "id":28,
+    "pergunta":"Qual a negação do sinal matemático [≥] (maior ou igual) ?",
+    "resposta":"menor" 
+  },
+  {
+    "id":29,
+    "pergunta":"Qual a negação do sinal matemático [≤] (menor ou igual) ?",
+    "resposta":"maior" 
+  },
+  {
+    "id":30,
+    "pergunta":"Qual a negação do sinal matemático [>] (maior) ?",
+    "resposta":"menor ou igual" 
+  },
+  {
+    "id":31,
+    "pergunta":"Qual a negação do sinal matemático [<] (menor) ?",
+    "resposta":"maior ou igual" 
+  },
+  {
+    "id":32,
+    "pergunta":"Como se nega o quantificador universal [todo] ?",
+    "resposta":"utilizando algum, pelo menos um e existe somado a negação da proposição" 
+  },
+  {
+    "id":33,
+    "pergunta":"Ao se negar um quanificador universal [todo] aprentam duas opções de negação, singular e plural. Qual das duas formas é preferivel?",
+    "resposta":"singular" 
+  },
+  {
+    "id":34,
+    "pergunta":"Como se nega o quantificador existencial [algum = existe = pelo menos um] ? ",
+    "resposta":"muda para o quantificador universal [todo] e nega a sentença" 
+  },
+  {
+    "id":35,
+    "pergunta":"Qual a outra forma de negar o quantificador existencial [algum = existe = pelo menos um] sem utilizar o quantificador universal [todo] diretamente?",
+    "resposta":"utilizando nenhum" 
+  },
+  {
+    "id":36,
+    "pergunta":"Qual a diferença de quando se utiliza [nenhum] para quando se utiliza [todo] ao negar uma proposição ?",
+    "resposta":"ao se utilizar nenhum, não se nega a frase" 
+  },
+  {
+    "id":37,
+    "pergunta":"Como se nega o quantificador universal negativo [nenhum = ninguém] ?",
+    "resposta":"com existe, algum, alguém" 
+  }
+  
+
+  ]

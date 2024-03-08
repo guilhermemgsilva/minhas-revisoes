@@ -1,0 +1,9 @@
+[{  "id":0,
+    "pergunta": "o que é CMN?",
+    "resposta": "é um normatizador que cuida dos mercados de moeda, crédito, capital e câmbio"
+  },
+  
+    { "id":1,
+      "pergunta":"quais o seus supervisores",
+      "resposta":"Banco Central e Comissão de valores mobiliários" 
+    }]
