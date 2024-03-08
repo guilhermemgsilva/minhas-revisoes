@@ -151,7 +151,177 @@
   },
   {  
   "id":30,
-  "pergunta": "Quais as vantagens de um sistema com multiplos computadores?",
+  "pergunta": "Quais as vantagens de um sistema com multiplos processadores?",
   "resposta": "permitir que vários programas sejam executados ao mesmo tempo ou que um mesmo programa seja subdivido e as suas partes sejam executadas simultaneamente"
+  },
+  {  
+  "id":31,
+  "pergunta": "Quais são as características específicas de sistemas com multiplos processadores?",
+  "resposta": "escalabilidade, disponibilidade e balanceamento de carga"
+  },
+  {  
+  "id":32,
+  "pergunta": "O que é escalabilidade em sistemas com multiplos processadores?",
+  "resposta": "é a capacidade de ampliar o poder computacional apenas adicionando novos processadores"
+  },
+  {  
+  "id":33,
+  "pergunta": "O que é disponibilidade em sistemas com multiplos processadores?",
+  "resposta": "é a capacidade de manter o sistema funcionando mesmo em casos de falha"
+  },
+  {  
+  "id":34,
+  "pergunta": "Baseado na característica de disponibilidade de sistemas com multiplos computadores, o que acontece se um dos processadores falhar?",
+  "resposta": "os outros procedores assumem as funções deixando o sistema sempre funcionando"
+  },
+  {  
+  "id":35,
+  "pergunta": "O que é balanceameno de carga em sistemas com multiplos processadores?",
+  "resposta": "é a capacidade de distribuir a carga de trabalho entre os processadores"
+  },
+  {  
+  "id":36,
+  "pergunta": "Quais as classificações dos sistemas com multiplos processadores?",
+  "resposta": "sistemas fortemente acoplados e sistemas fracamente acoplados"
+  },
+  {  
+  "id":37,
+  "pergunta": "O que é um sistema fortemente acoplado",
+  "resposta": "é um sistema onde vários processadores compartilham 1 memória e dispositivos de entrada e saída sendo gerenciados por um único sistema operacional"
+  },
+  {  
+  "id":38,
+  "pergunta": "Quais são as classificações dos sistemas fortemente acoplados?",
+  "resposta": "SMP e NUMA"
+  },
+  {  
+  "id":39,
+  "pergunta": "O que é um sistema fortemente acoplado SMP (symmetric multiprocessors)?",
+  "resposta": "eles possuem um tepo uniforme de acesso à memória pelos diversos processadores"
+  },
+  {  
+  "id":40,
+  "pergunta": "O que é um sistema fortemente acoplado NUMA (Non-Uniform Memory Access)?",
+  "resposta": "apresentam conjuntos de processadores e memória principal e cada conjunto é conectado aos outros por uma rede de interconexão"
+  },
+  {  
+  "id":41,
+  "pergunta": "Qual a diferença do tempo de acesso à memória em sistemas SMP e NUMA?",
+  "resposta": "nos SMP o tempo é uniforme já nos NUMA o tempo varia em função da localização física"
+  },
+  {  
+  "id":42,
+  "pergunta": "Como podem ser conhecidos os sistemas fortemente acoplados?",
+  "resposta": "multiprocessadores"
+  },
+  {  
+  "id":43,
+  "pergunta": "O que são sistemas fracamente acoplados?",
+  "resposta": "são sistemas que possuem dois ou mais computadores conectados por uma linha de comunicação"
+  },
+  {  
+  "id":44,
+  "pergunta": "Como são conhecidos os sistemas fracamente acoplados?",
+  "resposta": "multicomputadores"
+  },
+  {  
+  "id":45,
+  "pergunta": "Como são dividos os sistemas fracamente acoplados?",
+  "resposta": "sistemas operacionais de rede e sistemas distribuídos"
+  },
+  {  
+  "id":46,
+  "pergunta": "O que é um sistema operacional de rede?",
+  "resposta": "é um sistema onde um host pode compartilhar seus recursos através da rede como uma impressora por exemplo"
+  },
+  {  
+  "id":47,
+  "pergunta": "O que é um sistema distribuído?",
+  "resposta": "é um sistema com vários hosts onde esses hosts são escondidos e gerenciados como um sistema único como se fosse um sistema fortemete acoplado."
+  },
+  {  
+  "id":48,
+  "pergunta": "Existem 2 tipos de desvios froçados no fluxo de execução de um programa. Quais são eles?",
+  "resposta": "interrupções e exceções"
+  },
+  {  
+  "id":49,
+  "pergunta": "Como a interrupção possibilita o funcionamento de sistemas multiprogramáveis?",
+  "resposta": "a interrupção permite ao sistema operacional sincronizar a execução das rotinas e dos programas dos usuários"
+  },
+  {  
+  "id":50,
+  "pergunta": "Por que tipo de evento é gerada uma interrupção?",
+  "resposta": "por evento externo ao programa"
+  },
+  {  
+  "id":51,
+  "pergunta": "O que é rotina de tratamento de interrupção?",
+  "resposta": "é quando a execução de um programa é interrompida e o controle é desviado para tratar um evento ocorrido"
+  },
+  {  
+  "id":52,
+  "pergunta": "Após uma interrupção o que é necessário para que posteriormente o programa volte a ser executado?",
+  "resposta": "é necessário que no momento da interrupção sejam preservados um conjunto de registradores que deverão ser restaurados"
+  },
+  {  
+  "id":53,
+  "pergunta": "O que o processador deve saber sobre a interrupção no momento da ocorrência da interrupção?",
+  "resposta": "qual é o tipo da interrupção"
+  },
+  {  
+  "id":54,
+  "pergunta": "O que o processador faz quando identifica o tipo da ocorrência?",
+  "resposta": "desvia o fluxo para endereço da rotina de tratamento daquela ocorrência"
+  },
+  {  
+  "id":55,
+  "pergunta": "Quais são os passos do mecanismo de interrupção?",
+  "resposta": "salva o conteúdo dos registradores, identifica a origem do evento, obtém o endereço da rotina de tratamento, executa o tratamento, restaura o conteúdo dos registradores"
+  },
+  {  
+  "id":56,
+  "pergunta": "Quais são os dois métodos para tratamento de interrupções?",
+  "resposta": "vetor de interrupção e registrador de status"
+  },
+  {  
+  "id":57,
+  "pergunta": "Como funciona o método do vetor de interrupção para tratamento de interrupções?",
+  "resposta": "um vetor contém o endereço inicial de todas as rotinas de tratamento existentes associadas a cada tipo de evento"
+  },
+  {  
+  "id":58,
+  "pergunta": "Como funciona o método do registrador de status para tratamento de interrupções?",
+  "resposta": "um registrador armazena o tipo de evento ocorrido, então a única rotina de tratamento testa o registrador e identifica o tipo de evento para tratá-lo"
+  },
+  {  
+  "id":59,
+  "pergunta": "O que significa dizer que as interrupções são eventos assíncronos?",
+  "resposta": "significa que os eventos não estão relacionados a execução do programa e sim ao meio externo"
+  },
+  {  
+  "id":60,
+  "pergunta": "O que são interrupções mascaráveis?",
+  "resposta": "são interrupções que são ignoradas devido tentativa de multiplas interrupções simultâneas"
+  },
+  {  
+  "id":61,
+  "pergunta": "O que um controlador de pedidos de interrupção?",
+  "resposta": "é um dispositivo que atua na definição da prioridade para o tratamento de multiplas ocorrência simultâneas"
+  },
+  {  
+  "id":62,
+  "pergunta": "O que é uma exceção?",
+  "resposta": "é um evento parecido com a interrupção, mas é gerado pela execução do programa"
+  },
+  {  
+  "id":63,
+  "pergunta": "O que significa dizer que uma exceção é um evento síncrono?",
+  "resposta": "significa que é resultado da execução do programa corrente e por isso são eventos previsíveis"
+  },
+  {  
+  "id":64,
+  "pergunta": "O que se oide dizer sobre a natureza das rotinas de tratamento das exceções de um programa?",
+  "resposta": "essas rotinas são escritas pelo próprio programador"
   }
 ]
