@@ -1,9 +1,157 @@
-[{  "id":0,
-    "pergunta": "Bloco geral",
-    "resposta": "é um normatizador que cuida dos mercados de moeda, crédito, capital e câmbio"
+[
+  {  
+  "id":0,
+  "pergunta": "O que é um sistema operacional?",
+  "resposta": "um conjunto de rotnas execudas pelo computador"
   },
-  
-    { "id":1,
-      "pergunta":"geral",
-      "resposta":"Banco Central e Comissão de valores mobiliários" 
-    }]
+  {  
+  "id":1,
+  "pergunta": "Qual a função de um sistema operacional?",
+  "resposta": "controlar o funcionamento de um computador"
+  },
+  {  
+  "id":2,
+  "pergunta": "Como um ssistema operacional controla o funcionamento de um computador?",
+  "resposta": "gerenciando a utilização e o compartilhamento dos seus recursos"
+  },
+  {  
+  "id":3,
+  "pergunta": "Qual o objetivo de um sistema operacional?",
+  "resposta": "ser uma interface entre o usuário e o computador"
+  },
+  {  
+  "id":4,
+  "pergunta": "Quais as duas funções básicas do computador?",
+  "resposta": "interface entre o usuário e os recursos disponíveis controla o uso concorrente dos recursos"
+  },
+  {  
+  "id":5,
+  "pergunta": "Quais são os dois primeiros níveis de um computador?",
+  "resposta": "hardware e sistema operacional"
+  },
+  {  
+  "id":6,
+  "pergunta": "Como é chamada a visão modular de dividir o computador em camadas?",
+  "resposta": "máquina virtual"
+  },
+  {  
+  "id":7,
+  "pergunta": "Como é a execução de programas em sistemas monoprogramáveis?",
+  "resposta": "executam apenas um pograma de cada vez"
+  },
+  {  
+  "id":8,
+  "pergunta": "Como é a alocação de recursos nos sistemas monopogramáveis?",
+  "resposta": "todos os recursos do sistema ficam dedicados a uma única tarefa"
+  },
+  {  
+  "id":9,
+  "pergunta": "Como é a complexidade de implementação de sistemas monoprogramáveis?",
+  "resposta": "são de simples implementação por não haver problemas com compartilhamento de recursos"
+  },
+  {  
+  "id":10,
+  "pergunta": "O que é um sistema multiprogramável/multitarefa?",
+  "resposta": "são sistemas operacionais onde os revursos computacionais são divididos entre diversos usuários e aplicações"
+  },
+  {  
+  "id":11,
+  "pergunta": "Qual a principal vantagem de sistemas multiprogramáveis?",
+  "resposta": "a redução dos custos devido ao compartilhamento dos recursos"
+  },
+  {  
+  "id":12,
+  "pergunta": "Como é a complexidade de implementação de um sistema multiprogramável?",
+  "resposta": "são muito mais complexos do que os monoprogramáveis"
+  },
+  {  
+  "id":13,
+  "pergunta": "Quais são as classificações dos sistemas multiprogramáveis quanto ao número de usuários",
+  "resposta": "monousuário e multiusuário"
+  },
+  {  
+  "id":14,
+  "pergunta": "Onde são encontrados sistemas monousuários geralmente?",
+  "resposta": "em computadores pessoais e estações de trabalho"
+  },
+  {  
+  "id":15,
+  "pergunta": "O que são sistemas multiprogramáveis multiusuários?",
+  "resposta": "são ambintes interativos que permitem diversos usuários se conectarem ao mesmo tempo."
+  },
+  {  
+  "id":16,
+  "pergunta": "Como podem ser classificados os sistemas mulprogramáveis em relação a forma como as aplicações são gerenciadas?",
+  "resposta": "sistemas batch, de tempo compartilhado e de tempo real"
+  },
+  {  
+  "id":17,
+  "pergunta": "Quais foram os primeiros sistemas operacionais multiprogramáveis que foram implementados?",
+  "resposta": "batch"
+  },
+  {  
+  "id":18,
+  "pergunta": "Como eram chamados os programas nos sistemas batch?",
+  "resposta": "jobs"
+  },
+  {  
+  "id":19,
+  "pergunta": "Como eram submetidos os programas a execução nos sitemas batch?",
+  "resposta": "por cartões perfurados"
+  },
+  {  
+  "id":20,
+  "pergunta": "Como é o processamento batch?",
+  "resposta": "não exige interação com o usuário, as entradas de dados são feitas por meio de memória secundária"
+  },
+  {  
+  "id":21,
+  "pergunta": "O que se pode dizer sobre os tempos de resposta dos sistemas batch?",
+  "resposta": "são longos"
+  },
+  {  
+  "id":22,
+  "pergunta": "Qual é o princípio de funcionamento do sistema multiprogramável de tempo compartilhado (time-sharing)?",
+  "resposta": "permite que diversos programas sejam executados a partir da divisão de tempo do processador"
+  },
+  {  
+  "id":23,
+  "pergunta": "Como se chama o intervalo de tempo da divisão em um sistema de tempo compartilhado?",
+  "resposta": "fatia de tempo ou time-slice"
+  },
+  {  
+  "id":24,
+  "pergunta": "O que acontece com um programa caso a fatia de tempo não seja suficiente para a conclusão do programa?",
+  "resposta": "ele é interrompido e substituído por outro enquanto espera por uma nova fatia de tempo"
+  },
+  {  
+  "id":25,
+  "pergunta": "Como funciona a interação de sistemas de tempo compartilhado com o usuário?",
+  "resposta": "permite interação que é feita através de terminais que incluem vídeo, teclado e mouse"
+  },
+  {  
+  "id":26,
+  "pergunta": "Como são conhecidos os sitemas de tempo compartilhado devido a interação?",
+  "resposta": "sistemas on-line"
+  },
+  {  
+  "id":27,
+  "pergunta": "Qua a diferença entre os sistemas de tempo compartilhados e o sistemas de tempo real?",
+  "resposta": "os tempos de tempos de processamento, nos de tempo real o tempo de processamento deve estar dentro de limites bem rígidos"
+  },
+  {  
+  "id":28,
+  "pergunta": "Se em sistema de tempo real não existe o conceito de fatia de tempo, por quanto tempo um programa utiliza o processador nesse tipo de sistema?",
+  "resposta": "pelo tempo que for necessário ou até que apareça outro mais prioritário"
+  },
+  {  
+  "id":29,
+  "pergunta": "O que caracteriza um sistema com multiplos processadores?",
+  "resposta": "possuem dois ou mais UCPs trablhando em conjunto"
+  },
+  {  
+  "id":30,
+  "pergunta": "Quais as vantagens de um sistema com multiplos computadores?",
+  "resposta": "permitir que vários programas sejam executados ao mesmo tempo ou que um mesmo programa seja subdivido e as suas partes sejam executadas simultaneamente"
+  }
+]
