@@ -188,6 +188,106 @@
     "id":37,
     "pergunta":"Como se nega o quantificador universal negativo [nenhum = ninguém] ?",
     "resposta":"com existe, algum, alguém" 
+  },
+  {
+    "id":38,
+    "pergunta":"O que são conectivos lógicos?",
+    "resposta":"são palavras ou expressões usadas para formar novas proposições" 
+  },
+  {
+    "id":39,
+    "pergunta":"Quais são os conectivos lógicos?",
+    "resposta":"e, ou, ou...ou, se...então, se e somente se..." 
+  },
+  {
+    "id":40,
+    "pergunta":"Qual o conectivo lógico da disjunção?",
+    "resposta":"ou" 
+  },
+  {
+    "id":41,
+    "pergunta":"Quando uma disjução (ou) é falsa?",
+    "resposta":"se as duas proposições forem falsas" 
+  },
+  {
+    "id":42,
+    "pergunta":"Quando uma disjunção é verdadeira?",
+    "resposta":"se pelo menos uma das proposições for verdadeira" 
+  },
+  {
+    "id":43,
+    "pergunta":"Qual o conectivo lógico da disjunção exclusiva?",
+    "resposta":"ou... ou" 
+  },
+  {
+    "id":44,
+    "pergunta":"Quando a disjunção exlusiva é falsa?",
+    "resposta":"se os valores lógicos das duas proposições forem iguais" 
+  },
+  {
+    "id":45,
+    "pergunta":"Quando a disjunção exclusiva é verdadeira?",
+    "resposta":"se os valores lógicos das duas proposições forem diferentes" 
+  },
+  {
+    "id":46,
+    "pergunta":"Qual o conectivo da conjunção lógica?",
+    "resposta":"e" 
+  },
+  {
+    "id":47,
+    "pergunta":"Quando a conjunção lógica é verdadeira?",
+    "resposta":"quando ambas as proposições forem verdadeiras" 
+  },
+  {
+    "id":48,
+    "pergunta":"Quando a conjunção lógica é falsa?",
+    "resposta":"quando pelo menos uma das proposições for falsa" 
+  },
+  {
+    "id":49,
+    "pergunta":"Que conectivo o [mas] representa em raciocínio lógico?",
+    "resposta":"conjunção(e)" 
+  },
+  {
+    "id":50,
+    "pergunta":"Qual é o conectivo lógico da condicional?",
+    "resposta":"se, então" 
+  },
+  {
+    "id":51,
+    "pergunta":"Quando a condicional lógica será falsa?",
+    "resposta":"quando a primeira proposição for verdadeira e a segunda for falsa" 
+  },
+  {
+    "id":52,
+    "pergunta":"Qual a relação que se pode dizer que existe na condicional lógica?",
+    "resposta":"causa -> efeito ou causa -> consequencia" 
+  },
+  {
+    "id":53,
+    "pergunta":"Qual é condição da primeira proposição em uma condicional lógica?",
+    "resposta":"é condição suficiente" 
+  },
+  {
+    "id":54,
+    "pergunta":"Qual é condição da segunda proposição em uma condicional lógica?",
+    "resposta":"condição necessária" 
+  },
+  {
+    "id":55,
+    "pergunta":"Qual o conectivo lógico da bicondicional?",
+    "resposta":"se e somente se" 
+  },
+  {
+    "id":56,
+    "pergunta":"Qaundo a bicondicional é falsa",
+    "resposta":"quando os valores lógicos das proposições forem diferentes" 
+  },
+  {
+    "id":57,
+    "pergunta":"Qaundo a bicondicional é verdadeira",
+    "resposta":"quando os valores lógicos das proposições forem iguais" 
   }
   
 
