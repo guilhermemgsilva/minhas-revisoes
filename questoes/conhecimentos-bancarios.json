@@ -1,9 +1,187 @@
-[{  "id":0,
-    "pergunta": "o que é CMN?",
-    "resposta": "é um normatizador que cuida dos mercados de moeda, crédito, capital e câmbio"
-  },
+[
+  {  "id":0,
+    "pergunta": "Quais são os 3 níveis que formam os Sistema Financeiro Nacional?",
+    "resposta": "normatizadores, supervisores e operadores"
+  },  
+  { "id":1,
+    "pergunta":"O que fazem os normatizadores?",
+    "resposta":"determonam as regras gerais" 
+  },  
+  { "id":2,
+    "pergunta":"Quais são os três normatizadores do Sistema Financeiro Nacional?",
+    "resposta":"conselho monetário nacional, conselho nacional seguros privados, conselho nacional de previdência complementar" 
+  },  
+  { "id":3,
+    "pergunta":"Por quais mercados do Sistema Financeiro Nacional é responsável?",
+    "resposta":"moeda, câmbio, crédito, capital, previdência privada e previdência fechada" 
+  },  
+  { "id":4,
+    "pergunta":"O que é o Conselho Monetário Nacional?",
+    "resposta":"é um normatizador do sistema financeiro nacional responsável pelos mercados de moeda, crédito e câmbio" 
+  },  
+  { "id":5,
+    "pergunta":"Por quais mercados o Conselho Monetário Nacional é responsável?",
+    "resposta":"moeda, câmbio e crédito" 
+  },  
+  { "id":6,
+    "pergunta":"Quais as características do Conselho Monetário Nacional?",
+    "resposta":"principal ramo do sfn, é responsável pela transferência de recursos de agentes superavitários para agente deficitários" 
+  },  
+  { "id":7,
+    "pergunta":"Qual a responsbilidade do ramo monetário?",
+    "resposta":"fornecer papel moeda" 
+  },  
+  { "id":8,
+    "pergunta":"Qual a responsbilidade do ramo de crédito?",
+    "resposta":"fornecer recursos" 
+  },  
+  { "id":9,
+    "pergunta":"Qual a responsbilidade do ramo de capitais?",
+    "resposta":"permite captar recursos" 
+  },  
+  { "id":10,
+    "pergunta":"Qual a responsabilidade do mercado de câmbio?",
+    "resposta":"compra e venda de moeda extrangeira" 
+  },  
+  { "id":11,
+    "pergunta":"Quais são os supervisores ligados ao Conselho Monetário Nacional?",
+    "resposta":"baanco central do brasil, comissão de valores mobiliários" 
+  },  
+  { "id":12,
+    "pergunta":"Quem é o órgão responsável pela dívida pública federal interna e externa",
+    "resposta":"conselho monetário nacional" 
+  },  
+  { "id":13,
+    "pergunta":"Quem é o órgão responsável por formular a política monetária e de crédito",
+    "resposta":"conselho monetário nacional" 
+  },  
+  { "id":14,
+    "pergunta":"O que é o Conselho Nacional de Seguros Privados?",
+    "resposta":"é um normatizador do sfn responável pelos mercados de seguros privados, previdência complementar aberta e contratos de captalização" 
+  },  
+  { "id":15,
+    "pergunta":"Qual a responsabilidade do mercado de seguros privados?",
+    "resposta":"oferece serviço de proteção contra riscos" 
+  },  
+  { "id":16,
+    "pergunta":"Qual a responsabilidade do mercado de previdência complementar aberta?",
+    "resposta":"fornece plano de aposentadoria, poupança ou pensão" 
+  },  
+  { "id":17,
+    "pergunta":"Qual a resposabilidade do mercado de contratos de capitalização:",
+    "resposta":"são acordos para receber dinheiro com juros e concorrer a prêmios" 
+  },  
+  { "id":18,
+    "pergunta":"Qual é o supervisor ligado ao Conselho Nacional de Seguro Privados?",
+    "resposta":"Susep" 
+  },  
+  { "id":19,
+    "pergunta":"O que faz o Conselho Nacional de Previdência Complementar?",
+    "resposta":"regula o regime de previdência complememtar fechada" 
+  },  
+  { "id":20,
+    "pergunta":"Qual é o supervisor ligado ao Conselho Nacional de Previdência Complementar?",
+    "resposta":"Previc" 
+  },  
+  { "id":21,
+    "pergunta":"Do que trata a previdência privada?",
+    "resposta":"se trata de planos de aponsentadoria complementar, poupança ou pensão para funcionários de empresas e organizações" 
+  },  
+  { "id":22,
+    "pergunta":"O que fazem os supervisores do Sistema Monetário Nacional?",
+    "resposta":"detalham as regras e fazem com que sejam seguidas" 
+  },  
+  { "id":23,
+    "pergunta":"Quais são os supervidores do Sistema Monetário Nacional?",
+    "resposta":"banco central do brasil, comissão de valores móveis, susep e previc" 
+  },  
+  { "id":24,
+    "pergunta":"O que é o Banco Central?",
+    "resposta":"uma autarquia ferederal, não tem vínculos com nenhum ministério" 
+  },  
+  { "id":25,
+    "pergunta":"Qual a missão do Banco Central?",
+    "resposta":"garantir a estabilidade do poder da moeda" 
+  },  
+  { "id":26,
+    "pergunta":"O que significa dizer que o BCB é emissor de moeda e executor do meio circulante?",
+    "resposta":"o BCB detém o monopólio da emissão de papel moeda e moeda metálica bem como responsável pela logística de sua distribuição" 
+  },  
+  { "id":27,
+    "pergunta":"O que significa dizer que o BCB é o banco dos bancos e o banqueiro do governo?",
+    "resposta":"singnifica que é onde os bancos têm conta e que é onde é guardada a disponibilidade financeira da união" 
+  },  
+  { "id":28,
+    "pergunta":"O que significa dizer que o BCB é um executor SFN?",
+    "resposta":"executa política monetaria e cambial" 
+  },  
+  { "id":29,
+    "pergunta":"Quem opera o Selic?",
+    "resposta":"o banco central" 
+  },  
+  { "id":30,
+    "pergunta":"Quais são as instituições não financeiras que estão sob supervisão do BCB?",
+    "resposta":"administradoras de consórcio e instituições e pagamento" 
+  },  
+  { "id":31,
+    "pergunta":"O que faz a CVM?",
+    "resposta":"cuida dos mercados de capital ou valores mobiliários" 
+  },  
+  { "id":32,
+    "pergunta":"A que ministério é subordinado a CVM?",
+    "resposta":"ao ministério da economia" 
+  },  
+  { "id":33,
+    "pergunta":"Qual a missão da CVM?",
+    "resposta":"zelar pelo funcionamento eficiente e integridade do mercado de capitais" 
+  },  
+  { "id":34,
+    "pergunta":"A que normatizador a CVM é subordinada?",
+    "resposta":"ao CMN" 
+  },  
+  { "id":35,
+    "pergunta":"O que é a Susep?",
+    "resposta":"superintendência de seguros privados" 
+  },  
+  { "id":36,
+    "pergunta":"A que ministério a Susep é vinculada?",
+    "resposta":"ao ministério da economia" 
+  },  
+  { "id":37,
+    "pergunta":"Por quais mercados a Susep é responsável?",
+    "resposta":"seguros, previdência privada aberta, contratos de captalização e resseguro" 
+  },  
+  { "id":38,
+    "pergunta":"Qual a missão da Susep?",
+    "resposta":"Desenvolver os mercados supervisionados, assegurando seua estabilidade e os direios do consumidor" 
+  },  
+  { "id":39,
+    "pergunta":"O que é a Previc?",
+    "resposta":"superintendência nacional de previdência complementar" 
+  },  
+  { "id":40,
+    "pergunta":"A que ministério a Previc é subordinada?",
+    "resposta":"ao ministério do trabalho e previdência" 
+  },  
+  { "id":41,
+    "pergunta":"Por qual mercado a Previc é responsável?",
+    "resposta":"pelas entidades fechadas de previdência complementar" 
+  },  
+  { "id":42,
+    "pergunta":"O que é CRSFN?",
+    "resposta":"órgão colegiado de segundo grau que julga em última instância " 
+  },  
+  { "id":43 ,
+    "pergunta":"O que são operadores do SFN?",
+    "resposta":"são instituições que lidam direto com o público ofertando produtos e prestando serviços financeiros" 
+  },  
+  { "id":44,
+    "pergunta":"O que são instituições financeiras?",
+    "resposta":"são instituições que intermediam e custodiam recursos financeiros próprios ou de tereceiros" 
+  },  
+  { "id":45,
+    "pergunta":"Quais as características de um banco comercial?",
+    "resposta":"captam dos superávitários emprestam aos deficitários, são uma das poucas istituições autorizadas a captar depóstos a vista" 
+  }
   
-    { "id":1,
-      "pergunta":"quais o seus supervisores",
-      "resposta":"Banco Central e Comissão de valores mobiliários" 
-    }]
+]
