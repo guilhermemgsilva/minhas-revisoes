@@ -1,13 +1,192 @@
-[{  "id":0,
-    "pergunta": "Lingua postugues",
-    "resposta": "é um normatizador que cuida dos mercados de moeda, crédito, capital e câmbio"
+[
+  {
+    "id":0,
+    "pergunta": "Como podemos definir o que é um texto?",
+    "resposta": "é um conjunto de enunciados que conversam entre si formando relação e sentido"
   },
-  
-    { "id":1,
-      "pergunta":"portugues",
-      "resposta":"Banco Central e Comissão de valores mobiliários" 
-    },
-    {"id":2,
-      "pergunta":"pergunta numero 3",
-      "resposta":"qualquer coisa"
-    }]
+  {
+    "id":1,
+    "pergunta":"O que é textualidade?",
+    "resposta":"é o conjunto de características que constituem um texto"
+  },
+  {
+    "id":2,
+    "pergunta":"O que é um texto descritivo?",
+    "resposta":"faz uma imagem por escrito de algo"
+  },
+  {
+    "id":3,
+    "pergunta":"Quais as características de um texto descritivo?",
+    "resposta":"uso frequente de adjetivos e locuções adjetivas, uso predominante de verbos de ligação"
+  },
+  {
+    "id":4,
+    "pergunta":"Quais os tipos de descrição que existem?",
+    "resposta":"objetivas, subjetivas e técnico"
+  },
+  {
+    "id":5,
+    "pergunta":"O que são descrições objetivas?",
+    "resposta":"apresenta o objeto de forma imparcial, neutra"
+  },
+  {
+    "id":6,
+    "pergunta":"O que são descrições subjetivas?",
+    "resposta":"expressa a visão e as impressões do autor sobre o objeto"
+  },
+  {
+    "id":7,
+    "pergunta":"O que são descrições técnicas",
+    "resposta":"usado em textos científicos e manuais"
+  },
+  {
+    "id":8,
+    "pergunta":"O que é um texto narrativo/relato?",
+    "resposta":"é o tipo de texto que conta uma história, seja real ou fictícia"
+  },
+  {
+    "id":9,
+    "pergunta":"Quais são os elementos de uma narração?",
+    "resposta":"narrador, personagens, enredo, tempo e espaço"
+  },
+  {
+    "id":10,
+    "pergunta":"Qual o papel de um narrador como elemento de uma narração",
+    "resposta":"conta a história a partir de um ponto de vista específico"
+  },
+  {
+    "id":11,
+    "pergunta":"Qual o papel dos personagens como elementos de uma narração",
+    "resposta":"são os seres que participam da história"
+  },
+  {
+    "id":12,
+    "pergunta":"Qual o papel do enredo como elemento de uma narração",
+    "resposta":"são a sequencia de ações que compõem a história"
+  },
+  {
+    "id":13,
+    "pergunta":"Qual o papel do tempo como elemento de uma narração",
+    "resposta":"momento em que a história se passa"
+  },
+  {
+    "id":14,
+    "pergunta":"Qual o papel do espaço como elemento de uma narração",
+    "resposta":"local onde a história se passa"
+  },
+  {
+    "id":15,
+    "pergunta":"Quais são os tipos de narrador?",
+    "resposta":"narrador-observador, narrador-personagem, narrador onisciente"
+  },
+  {
+    "id":16,
+    "pergunta":"O que descreve um narrador-observador?",
+    "resposta":"relata de forma imparcial, como se fosse uma câmera"
+  },
+  {
+    "id":17,
+    "pergunta":"O que descreve um narrador-personagem?",
+    "resposta":"participa da história como personagem e conta os fatos a partir de sua perspectiva"
+  },
+  {
+    "id":18,
+    "pergunta":"O que descreve um narrador onisciente?",
+    "resposta":"tem conhecimento total dos fatos e dos pensamentos dos personagens"
+  },
+  {
+    "id":19,
+    "pergunta":"Quais são tipos de discurso?",
+    "resposta":"direto, indireto e indireto livre"
+  },
+  {
+    "id":20,
+    "pergunta":"Como é um discurso direto em um texto narrativo?",
+    "resposta":"o narrador reproduz as falas dos personagens entre aspas"
+  },
+  {
+    "id":21,
+    "pergunta":"Como é um discurso indireto em um texto narrativo?",
+    "resposta":"o narrador relata as falas dos personagens em suas próprias palavras"
+  },
+  {
+    "id":22,
+    "pergunta":"Como é um discurso indireto livre em um texto narrativo?",
+    "resposta":"o narrador mistura a fala dos personagens com a sua voz"
+  },
+  {
+    "id":23,
+    "pergunta":"Quais são os exemplos de narrativos?",
+    "resposta":"contos, romances, crônicas, notícias"
+  },
+  {
+    "id":24,
+    "pergunta":"Quais são os tipos de dissertação?",
+    "resposta":"dissertação expositiva e argumentativa"
+  },
+  {
+    "id":25,
+    "pergunta":"O que é um texto dissertativo expositivo?",
+    "resposta":"é um tipo de texto que tem como objetivo apresentar informações sobre um determinado tema de forma subjetiva"
+  },
+  {
+    "id":26,
+    "pergunta":"Qual a estrutura de um texto dissertativo?",
+    "resposta":"introdução, desenvolvimento e conclusão"
+  },
+  {
+    "id":27,
+    "pergunta":"O que é um texto dissertativo argumentativo?",
+    "resposta":"é um tipo de texto que tem como objetivo defender um ponto de vista"
+  },
+  {
+    "id":28,
+    "pergunta":"Qual a diferença entre um texto dissertativo expositivo e dissertativo argumentativo?",
+    "resposta":"a dissertação argumentativa possui tese e tem a intenção de perssuadir o leitor"
+  },
+  {
+    "id":29,
+    "pergunta":"Quais são os tipos de argumento que podem ser usados em texto dissertativo argumentativo?",
+    "resposta":"de fato, de opinião e de autoridade"
+  },
+  {
+    "id":30,
+    "pergunta":"O que se pode dizer sobre o arguemento de fato?",
+    "resposta":"baseiam-se em dados em informações comprovadas"
+  },
+  {
+    "id":31,
+    "pergunta":"O que se pode dizer sobre o arguemento de opinião?",
+    "resposta":"baseiam-se nas opiniões e crnças do autor"
+  },
+  {
+    "id":32,
+    "pergunta":"O que se pode dizer sobre o arguemento de autoridade?",
+    "resposta":"baseiam-se na opinião do especialista sobre o assunto"
+  },
+  {
+    "id":33,
+    "pergunta":"O que é um texto injuntivo ou injunção?",
+    "resposta":"é um tipo textual que tem como objetivo guiar o leitor na realização de uma tarefa ou ação"
+  },
+  {
+    "id":34,
+    "pergunta":"Quais as características de um texto injutivo?",
+    "resposta":"predominância de verbos no imperativo, estrutura sequencial, uso de recursos visuais e usos de exemplos"
+  },
+  {
+    "id":35,
+    "pergunta":"O que é coerência?",
+    "resposta":"é que se compreende, o que se pode interpretar do que se lê"
+  },
+  {
+    "id":36,
+    "pergunta":"O que é coesão?",
+    "resposta":"é o correto emprego dos conectivos no texto"
+  },
+  {
+    "id":37,
+    "pergunta":"Quais são os tipos de coesão?",
+    "resposta":"referêncial, recorrencial e sequêncial"
+  }
+]
