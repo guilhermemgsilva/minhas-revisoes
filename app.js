@@ -6,12 +6,16 @@ function selecionaMateria(){
   .then(data => {
     // Processar o conteúdo do texto
     const elementoPerguntas = document.getElementById('perguntas')
+    const qtdQestoes = document.getElementById('qtdQuestoes')
     elementoPerguntas.innerHTML= " "
     const revisao = data
     let questaoRetornada = retornaQuestaoAleatoria(revisao)
     let questaoEscolhida = questaoRetornada.questaoEscolhida
     let numeroQuestao = questaoRetornada.questaoAleatoria
-
+    
+    
+    qtdQestoes.innerHTML=`Questões restantes: ${data.length} `
+    
     const proximaQuestao = document.getElementById('proximo')
 
     criaPergunta(questaoEscolhida, elementoPerguntas)
@@ -23,8 +27,12 @@ function selecionaMateria(){
         questaoRetornada = retornaQuestaoAleatoria(revisao)
         questaoEscolhida = questaoRetornada.questaoEscolhida
         numeroQuestao = questaoRetornada.questaoAleatoria
-
+        
         criaPergunta(questaoEscolhida, elementoPerguntas)
+        
+        qtdQestoes.innerHTML=`Questões restantes: ${data.length} `
+        
+        
       }else{
         alert("Parabéns, revisão concluída!")
       }
