@@ -1,0 +1,82 @@
+[
+   {
+    "id":0,
+    "pergunta":"Qual a negação da frase [Aristóteles foi um filósofo grego]?",
+    "resposta":"Artistóteles não foi um filósofo grego" 
+  },
+  {
+    "id":1,
+    "pergunta":"Como se nega uma proposição que possui o advérbio [não] ?",
+    "resposta":"retirando o advérbio não" 
+  },
+  {
+    "id":2,
+    "pergunta":"Quais expressões podem ser utilizadas para se negar uma proposição sem utilizar o advérbio [não] apenas?",
+    "resposta":"não é verdade que, é falso que" 
+  },
+  {
+    "id":3,
+    "pergunta":"Quando se pode utilizar antônimos para negar uma proposição?",
+    "resposta":"Quando a negação é equivalente ao antônimo" 
+  },
+  {
+    "id":4,
+    "pergunta":"Qual a negação do sinal matemático [=] (igual) ?",
+    "resposta":"diferente" 
+  },
+  {
+    "id":5,
+    "pergunta":"Qual a negação do sinal matemático [≠] (diferente) ?",
+    "resposta":"igual" 
+  },
+  {
+    "id":6,
+    "pergunta":"Qual a negação do sinal matemático [≥] (maior ou igual) ?",
+    "resposta":"menor" 
+  },
+  {
+    "id":7,
+    "pergunta":"Qual a negação do sinal matemático [≤] (menor ou igual) ?",
+    "resposta":"maior" 
+  },
+  {
+    "id":8,
+    "pergunta":"Qual a negação do sinal matemático [>] (maior) ?",
+    "resposta":"menor ou igual" 
+  },
+  {
+    "id":9,
+    "pergunta":"Qual a negação do sinal matemático [<] (menor) ?",
+    "resposta":"maior ou igual" 
+  },
+  {
+    "id":10,
+    "pergunta":"Como se nega o quantificador universal [todo] ?",
+    "resposta":"utilizando algum, pelo menos um e existe somado a negação da proposição" 
+  },
+  {
+    "id":11,
+    "pergunta":"Ao se negar um quanificador universal [todo] aprentam duas opções de negação, singular e plural. Qual das duas formas é preferivel?",
+    "resposta":"singular" 
+  },
+  {
+    "id":12,
+    "pergunta":"Como se nega o quantificador existencial [algum = existe = pelo menos um] ? ",
+    "resposta":"muda para o quantificador universal [todo] e nega a sentença" 
+  },
+  {
+    "id":13,
+    "pergunta":"Qual a outra forma de negar o quantificador existencial [algum = existe = pelo menos um] sem utilizar o quantificador universal [todo] diretamente?",
+    "resposta":"utilizando nenhum" 
+  },
+  {
+    "id":14,
+    "pergunta":"Qual a diferença de quando se utiliza [nenhum] para quando se utiliza [todo] ao negar uma proposição ?",
+    "resposta":"ao se utilizar nenhum, não se nega a frase" 
+  },
+  {
+    "id":15,
+    "pergunta":"Como se nega o quantificador universal negativo [nenhum = ninguém] ?",
+    "resposta":"com existe, algum, alguém" 
+  }
+]

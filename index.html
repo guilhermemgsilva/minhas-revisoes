@@ -9,13 +9,41 @@
 <body>
   <select id="materias" onchange="selecionaMateria()">
     <option value="" disabled selected >Escolha uma matéria para revisar</option>
-    <option value="./questoes/conhecimentos-bancarios.json">Conhecimentos Bancários</option>
-    <option value="./questoes/raciocinio-logico.json">Raciocínio Lógico</option>
-    <option value="./questoes/lingua-portuguesa.json">Lingua Portuguesa</option>
-    <option value="./questoes/bloco-tecnico.json">Bloco Técnico</option>
-    <option value="./questoes/bloco-dados.json">Banco de Dados</option>
-    <option value="./questoes/bloco-gestao.json">Bloco de Gestão</option>
-    <option value="./questoes/bloco-geral.json">Bloco Geral</option>
+    <optgroup label="Conhecimentos Bancários">
+      <option value="./questoes/conhecimentos bancarios/conhecimentos-bancarios.json">Conhecimentos Bancários Todas</option>
+    </optgroup>
+    
+    <optgroup label="Raciocínio Lógico">
+      <option value="./questoes/raciocinio logico/raciocinio-logico.json">Raciocínio Lógico Todas</option>
+      <option value="./questoes/raciocinio logico/proposicoes.json">Proposicoes</option>
+      <option value="./questoes/raciocinio logico/negacoes-simples.json">Negação de Proposicoes Simples</option>
+      <option value="./questoes/raciocinio logico/conectivos-logicos.json">Conectivos Lógicos</option>
+
+    </optgroup>
+
+    <optgroup label="Língua Portuguesa">
+      <option value="./questoes/lingua portuguesa/lingua-portuguesa.json">Língua Portuguesa Todas</option>
+    </optgroup>
+
+    <optgroup label="Bloco Técnico">
+      <option value="./questoes/bloco tecnico/bloco-tecnico.json">Bloco Técnico Todas</option>
+
+    </optgroup>
+
+    <optgroup label="Banco de Dados">
+
+      <option value="./questoes/banco de dados/bloco-dados.json">Banco de Dados Todas</option>
+    </optgroup>
+    
+    <optgroup label="Bloco de Gestão">
+
+      <option value="./questoes/bloco de gestao/bloco-gestao.json">Bloco de Gestão Todas</option>
+    </optgroup>
+    
+    <optgroup label="Bloco Geral">
+
+      <option value="./questoes/bloco geral/bloco-geral.json">Bloco Geral Todas</option>
+    </optgroup>
 
   </select>
   <p id="qtdQuestoes"></p>
