@@ -1,0 +1,178 @@
+[
+  {
+    "id":0,
+    "pergunta": "O que é uma sílaba tônica?",
+    "resposta": "é a sílaba pronunciada com mais força"
+  },
+  {
+    "id":1,
+    "pergunta": "Onde ocorre o acento tônico?",
+    "resposta": "na fala"
+  },
+  {
+    "id":2,
+    "pergunta": "Onde ocorre o acento gráfico?",
+    "resposta": "na escrita"
+  },
+  {
+    "id":3,
+    "pergunta": "O que é letra?",
+    "resposta": "é a representação gráfica do som"
+  },
+  {
+    "id":4,
+    "pergunta": "O que é fonema?",
+    "resposta": "é a unidade sonora"
+  },
+  {
+    "id":5,
+    "pergunta": "O que é dígrafo?",
+    "resposta": "é o encontro de duas letras para formar um fonema"
+  },
+  {
+    "id":6,
+    "pergunta": "O que é dígrafo consonantal?",
+    "resposta": "é o encontro de duas consoantes formando um único som"
+  },
+  {
+    "id":7,
+    "pergunta": "O que é dígrafo de vogais nasais?",
+    "resposta": "é o encontro de vogais com as letras m ou n no meio das palavras"
+  },
+  {
+    "id":8,
+    "pergunta": "O que se pode dizer sobre o número de letras e de fonemas de uma palavra quando há dígrafo?",
+    "resposta": "o número de letras é maior que o de fonemas"
+  },
+  {
+    "id":9,
+    "pergunta": "Quais são os tipos de encontros vocálicos que existem?",
+    "resposta": "ditongo, tritongo e hiato"
+  },
+  {
+    "id":10,
+    "pergunta": "o que é um ditongo?",
+    "resposta": "é o encontro de uma vogal e de uma semivogal"
+  },
+  {
+    "id":11,
+    "pergunta": "Quais sã os tipos de ditongo?",
+    "resposta": "crescente, descrescente, nasal e oral"
+  },
+  {
+    "id":12,
+    "pergunta": "O que é um ditongo crescente?",
+    "resposta": "é quando a semivogal vem antes da vogal"
+  },
+  {
+    "id":13,
+    "pergunta": "O que é um ditongo decrescente?",
+    "resposta": "é quando a vogal vem antes da semivogal"
+  },
+  {
+    "id":14,
+    "pergunta": "O que é um ditongo oral?",
+    "resposta": "é um ditongo com duas vogais"
+  },
+  {
+    "id":15,
+    "pergunta": "O que é um ditongo nasal?",
+    "resposta": "é um ditongo com uma vogal combinado com m ou n no final da palavra"
+  },
+  {
+    "id":16,
+    "pergunta": "O que se pode dizer sobre a classificação de ditongos abertos?",
+    "resposta": "são são decrescentes"
+  },
+  {
+    "id":17,
+    "pergunta": "O que é um tritongo?",
+    "resposta": "é o quando se tem uma vogal entre duas semivogais"
+  },
+  {
+    "id":18,
+    "pergunta": "Quais são as formas que podem ocorrer?",
+    "resposta": "de forma nasal e oral"
+  },
+  {
+    "id":19,
+    "pergunta": "O que são tritongos orais?",
+    "resposta": "são tritongos formados apenas por vogais"
+  },
+  {
+    "id":20,
+    "pergunta": "O que são triongos nasais?",
+    "resposta": "são tritongos formados por dígrafos vogais nasais no final das palavras"
+  },
+  {
+    "id":21,
+    "pergunta": "O que é um hiato?",
+    "resposta": "é o encontro de 2 vogais em sílabas diferentes"
+  },
+  {
+    "id":22,
+    "pergunta": "Como são classificadas as palavras de acordo com o número de sílabas?",
+    "resposta": "monossílaba, dissílaba, trissílaba e polissílaba"
+  },
+  {
+    "id":23,
+    "pergunta": "Como são classificadas as palavras de acordo com a sílaba tônica?",
+    "resposta": "oxítona, paroxítona e proparoxítona"
+  },
+  {
+    "id":24,
+    "pergunta": "O que é uma palavra oxítona?",
+    "resposta": "última sílaba tônica"
+  },
+  {
+    "id":25,
+    "pergunta": "O que é uma palavra paroxítona?",
+    "resposta": "penúltima sílaba tônica"
+  },
+  {
+    "id":26,
+    "pergunta": "O que é uma palavra proparoxítona?",
+    "resposta": "antepenúltima spilaba tônica"
+  },
+  {
+    "id":27,
+    "pergunta": "Qual a regra geral de acentuação dos monossílabos tônicos?",
+    "resposta": "terminadas em a, e, o e ditongo aberto"
+  },
+  {
+    "id":28,
+    "pergunta": "Qual a regra geral de acentuação das oxítonas?",
+    "resposta": "terminadas em a, e, o, em, ens e ditongo aberto"
+  },
+  {
+    "id":29,
+    "pergunta": "Qual a regra geral de acentuação das paroxítonas?",
+    "resposta": "todas são acentuadas exceto a, e, o, em, ens e as que são em ditongo em aberto"
+  },
+  {
+    "id":30,
+    "pergunta": "Qual a regra específica da acentação das paroxítonas?",
+    "resposta": "acentuam-se todas em ditongo oral"
+  },
+  {
+    "id":31,
+    "pergunta": "Qual a regra geral de acentuação das proparoxítonas?",
+    "resposta": "todas são acentuadas"
+  },
+  {
+    "id":32,
+    "pergunta": "Qual a regras geral de acentuação dos hiatos",
+    "resposta": "acentuam-se i e u tônicos sozinhos ou acompanhados de s"
+  },
+  {
+    "id":33,
+    "pergunta": "Quado o hiato não é acentuado?",
+    "resposta": "quando antecedem nh e em vogais repetidas"
+  },
+  {
+    "id":34,
+    "pergunta": "Qual a regra de acentuação dos hiatos em paroxítonas?",
+    "resposta": "não são acentuados se for i e u tônico após ditongo crescente"
+  }
+  
+]
